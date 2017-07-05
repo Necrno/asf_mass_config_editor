@@ -1,0 +1,12 @@
+{
+	"Enabled": true,
+	"SteamLogin": "test1",
+	"SteamPassword": "test1",
+	"Paused": true,
+	"IsBotAccount": true,
+	"SteamUserPermissions": {
+		"0203002": 4
+	},
+	"GamesPlayedWhileIdle": "730",
+	"SteamMasterClanID": 2104520154040
+}

@@ -1,0 +1,48 @@
+body{
+	background: grey;
+}
+
+.file{
+	display: inline-block;
+	border: 1px solid silver;
+	padding: 11px;
+	margin: 6px;
+
+}
+
+#editor{
+	padding: 11px;
+	margin: 6px;
+}
+
+
+.btn.active {
+	background: green !important;
+}
+
+#SteamUserPermissions_form, #GamesPlayedWhileIdle_form, #SteamMasterClanID_form, #Enabled_form, #Paused_form, #IsBotAccount_form{
+	display: none;
+}
+
+.file{
+	cursor: default;
+	background: green;
+}
+
+.exclude{
+	background: orange !important;
+}
+.file:hover{
+	background: yellow !important;
+}
+
+.h_pad20{
+	display: inline-block;
+	padding: 0px 11px;
+	margin: 0px 6px;
+}
+
+.box1{
+	/*border: 1px solid silver;*/
+	width: auto;
+}

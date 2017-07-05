@@ -1,0 +1,39 @@
+{
+  "main": "index.html",
+  "name": "asf_mass_config_editor",
+  
+  "description": "gene_asd_edit",
+  "version": "0.0.1",
+  "keywords": [ "node-webkit", "nwjs", "asf" ],
+  "chromium-args": " --user-data-dir='./data/temp'",
+  "window": {
+    "title": "ASF Mass Config Editor",
+    "icon": "img/app-draw.png",
+    "as_desktop": false,
+    "toolbar": true,
+    "frame": true,
+    "show_in_taskbar": true,
+	  "transparent":false,
+    "fullscreen": false,
+    "focus":true,
+    "resizable":true,
+    "width":850,
+    "height":600
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "maintainers":[ {
+   "name": "JohnnSy",
+   "email": "admin@genesix.eu",
+   "web": "http://genesix.eu/"
+}],
+	"single-instance":false,
+	"licenses": [
+   {
+       "type": "BY-NC",
+       "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+   }
+]
+
+}
