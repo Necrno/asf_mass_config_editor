@@ -1,6 +1,6 @@
 ASF Mass Config Editor is tool to edit same value in multiple json files for https://github.com/JustArchi/ArchiSteamFarm
 
-You can select values which you want to change (curently only 6) and you can also select json files which you wanna igonore.
+You can select values which you want to change (curently only 6) and you can also select json files which you wanna ignore.
 
 I am not sure if output data types in json files are correct so use at your own risk.
 
