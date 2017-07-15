@@ -4,7 +4,8 @@ You can select values which you want to change (curently only 6) and you can als
 
 I am not sure if output data types in json files are correct so use at your own risk.
 
-I am currently not providing binary files so if you want to use this app download nwjs from https://nwjs.io/ and extract files from this repository into nwjs directory.
+Download from here (83mb) https://genesix.eu/project/asf_mass_config_editor/asf_mass_config_editor.zip (nwjs-sdk-v0.23.6-win-x64 + this repo)
+Or you can download nwjs from https://nwjs.io/ and extract files from this repository into nwjs directory.
 
 
 How to use this app:
